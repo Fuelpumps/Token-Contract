@@ -1,2 +1,2 @@
 # Token-Contract
-Test -contaract
+Test -contract
